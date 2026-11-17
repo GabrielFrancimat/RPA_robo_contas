@@ -1,0 +1,90 @@
+11:51:59 | INFO    | Configuração carregada. ERP em http://127.0.0.1:8765 | limite de aprovação R$ 50000.00
+11:51:59 | INFO    | 🖥️  ERP legado no ar em http://127.0.0.1:8765  (layout v1)
+11:52:00 | INFO    | 🔐 Login realizado como robo.ap
+11:52:02 | INFO    | NF_01_004101.pdf | SUCESSO | AP-2026-00001
+11:52:02 | INFO    | NF_02_004102.pdf | SUCESSO | AP-2026-00002
+11:52:03 | INFO    | NF_03_004103.pdf | SUCESSO | AP-2026-00003
+11:52:03 | INFO    | NF_04_004104.pdf | EXCECAO_NEGOCIO | CNPJ inválido: 23.775.684/0001-00
+11:52:04 | INFO    | NF_05_004105.pdf | SUCESSO | AP-2026-00004
+11:52:05 | INFO    | NF_06_004106.pdf | SUCESSO | AP-2026-00005
+11:52:05 | INFO    | NF_07_004102.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:06 | INFO    | NF_08_004108.pdf | SUCESSO | AP-2026-00006
+11:52:06 | INFO    | NF_09_004109.pdf | PENDENTE_APROVACAO | Valor acima do limite de R$ 50.000,00
+11:52:07 | INFO    | NF_10_004110.pdf | SUCESSO | AP-2026-00007
+11:52:07 | INFO    | NF_11_004111.pdf | EXCECAO_NEGOCIO | Campo 'valor' não encontrado no documento
+11:52:07 | INFO    | NF_12_004112.pdf | SUCESSO | AP-2026-00008
+11:52:07 | INFO    | Lote concluído em 8.25s
+11:52:09 | INFO    | 🔐 Login realizado como robo.ap
+11:52:10 | INFO    | 🔐 Login realizado como robo.ap
+11:52:12 | INFO    | 🔐 Login realizado como robo.ap
+11:52:12 | INFO    | NF_01_004101.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_02_004102.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_03_004103.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_04_004104.pdf | EXCECAO_NEGOCIO | CNPJ inválido: 23.775.684/0001-00
+11:52:12 | INFO    | NF_05_004105.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_06_004106.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_07_004102.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_08_004108.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_09_004109.pdf | PENDENTE_APROVACAO | Valor acima do limite de R$ 50.000,00
+11:52:12 | INFO    | NF_10_004110.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:12 | INFO    | NF_11_004111.pdf | EXCECAO_NEGOCIO | Campo 'valor' não encontrado no documento
+11:52:12 | INFO    | NF_12_004112.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+11:52:13 | INFO    | Lote concluído em 1.64s
+11:52:14 | INFO    | 🔐 Login realizado como robo.ap
+11:52:15 | INFO    | 🔐 Login realizado como robo.ap
+11:52:16 | INFO    | 🔐 Login realizado como robo.ap
+11:52:27 | WARNING | Retentativa 1/3: Indisponibilidade controlada
+11:52:27 | WARNING | Retentativa 1/3: Falha persistente
+11:52:27 | WARNING | Retentativa 2/3: Falha persistente
+11:52:30 | INFO    | 🔐 Login realizado como robo.ap
+11:52:31 | WARNING | Retentativa 1/3: Confirmação perdida após gravar (injeção de teste)
+11:52:32 | INFO    | 830001.pdf | SUCESSO | AP-2026-00023
+11:52:32 | INFO    | 830002.pdf | PENDENTE_APROVACAO | Centro de custo incerto: confiança 0%
+11:52:32 | INFO    | 830003.pdf | PENDENTE_APROVACAO | Centro de custo incerto: confiança 50%
+11:52:32 | INFO    | Lote concluído em 3.15s
+11:52:33 | INFO    | 🔐 Login realizado como robo.ap
+16:13:06 | INFO    | Configuração carregada. ERP em http://127.0.0.1:8765 | limite de aprovação R$ 50000.00
+16:13:07 | INFO    | 🖥️  ERP legado no ar em http://127.0.0.1:8765  (layout v1)
+16:13:08 | INFO    | 🔐 Login realizado como robo.ap
+16:13:09 | INFO    | NF_01_004101.pdf | SUCESSO | AP-2026-00001
+16:13:10 | INFO    | NF_02_004102.pdf | SUCESSO | AP-2026-00002
+16:13:10 | INFO    | NF_03_004103.pdf | SUCESSO | AP-2026-00003
+16:13:10 | INFO    | NF_04_004104.pdf | EXCECAO_NEGOCIO | CNPJ inválido: 23.775.684/0001-00
+16:13:11 | INFO    | NF_05_004105.pdf | SUCESSO | AP-2026-00004
+16:13:11 | INFO    | NF_06_004106.pdf | SUCESSO | AP-2026-00005
+16:13:11 | INFO    | NF_07_004102.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:12 | INFO    | NF_08_004108.pdf | SUCESSO | AP-2026-00006
+16:13:12 | INFO    | NF_09_004109.pdf | PENDENTE_APROVACAO | Valor acima do limite de R$ 50.000,00
+16:13:13 | INFO    | NF_10_004110.pdf | SUCESSO | AP-2026-00007
+16:13:13 | INFO    | NF_11_004111.pdf | EXCECAO_NEGOCIO | Campo 'valor' não encontrado no documento
+16:13:13 | INFO    | NF_12_004112.pdf | SUCESSO | AP-2026-00008
+16:13:14 | INFO    | Lote concluído em 6.88s
+16:13:15 | INFO    | 🔐 Login realizado como robo.ap
+16:13:16 | INFO    | 🔐 Login realizado como robo.ap
+16:13:18 | INFO    | 🔐 Login realizado como robo.ap
+16:13:19 | INFO    | NF_01_004101.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_02_004102.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_03_004103.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_04_004104.pdf | EXCECAO_NEGOCIO | CNPJ inválido: 23.775.684/0001-00
+16:13:19 | INFO    | NF_05_004105.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_06_004106.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_07_004102.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_08_004108.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_09_004109.pdf | PENDENTE_APROVACAO | Valor acima do limite de R$ 50.000,00
+16:13:19 | INFO    | NF_10_004110.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | NF_11_004111.pdf | EXCECAO_NEGOCIO | Campo 'valor' não encontrado no documento
+16:13:19 | INFO    | NF_12_004112.pdf | EXCECAO_NEGOCIO | Já existe no ERP — ignorado por idempotência
+16:13:19 | INFO    | Lote concluído em 1.80s
+16:13:19 | INFO    | 🔐 Login realizado como robo.ap
+16:13:21 | INFO    | 🔐 Login realizado como robo.ap
+16:13:22 | INFO    | 🔐 Login realizado como robo.ap
+16:13:32 | WARNING | Retentativa 1/3: Indisponibilidade controlada
+16:13:33 | WARNING | Retentativa 1/3: Falha persistente
+16:13:33 | WARNING | Retentativa 2/3: Falha persistente
+16:13:35 | INFO    | 🔐 Login realizado como robo.ap
+16:13:36 | WARNING | Retentativa 1/3: Confirmação perdida após gravar (injeção de teste)
+16:13:37 | INFO    | 830001.pdf | SUCESSO | AP-2026-00023
+16:13:37 | INFO    | 830002.pdf | PENDENTE_APROVACAO | Centro de custo incerto: confiança 0%
+16:13:37 | INFO    | 830003.pdf | PENDENTE_APROVACAO | Centro de custo incerto: confiança 50%
+16:13:37 | INFO    | Lote concluído em 3.17s
+16:13:38 | INFO    | 🔐 Login realizado como robo.ap

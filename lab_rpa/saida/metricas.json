@@ -1,0 +1,85 @@
+{
+  "ambiente": {
+    "python": "3.14.4",
+    "sistema": "Linux-7.0.0-42-generic-x86_64-with-glibc2.43",
+    "bibliotecas": {
+      "playwright": "1.65.2",
+      "pypdf": "7.1.0",
+      "fpdf2": "2.9.0",
+      "pandas": "3.1.1",
+      "openpyxl": "3.1.5"
+    }
+  },
+  "lote": {
+    "total": 12,
+    "status": {
+      "SUCESSO": 8,
+      "EXCECAO_NEGOCIO": 3,
+      "PENDENTE_APROVACAO": 1
+    },
+    "tempo_itens_s": 5.4015,
+    "media_sucesso_s": 0.6740625,
+    "stp": 0.6666666666666666
+  },
+  "idempotencia": {
+    "antes": 8,
+    "depois": 8,
+    "novos_lancamentos": 0
+  },
+  "interface": [
+    {
+      "layout": "v1",
+      "estrategia": "ids",
+      "count": 3,
+      "mean": 0.9414527333380344,
+      "median": 0.9810362630087184,
+      "std": 0.0943029066180497
+    },
+    {
+      "layout": "v1",
+      "estrategia": "rotulos",
+      "count": 3,
+      "mean": 0.6315692106679004,
+      "median": 0.6414626159967156,
+      "std": 0.18005788252991228
+    },
+    {
+      "layout": "v2",
+      "estrategia": "ids",
+      "count": 3,
+      "mean": 0.524124016330461,
+      "median": 0.45161723300407175,
+      "std": 0.22426776602486154
+    },
+    {
+      "layout": "v2",
+      "estrategia": "rotulos",
+      "count": 3,
+      "mean": 0.6730738910021804,
+      "median": 0.5936268320074305,
+      "std": 0.1612243018319653
+    }
+  ],
+  "extracao": {
+    "amostras": 60,
+    "extraidos": 55,
+    "rejeitados": 5,
+    "mediana_ms": 1.5361564946942963
+  },
+  "classificacao": {
+    "casos_sinteticos": 13,
+    "aderencia_esperada": 1.0,
+    "encaminhados_humano": 4
+  },
+  "resiliencia": {
+    "tentativas_503": 2,
+    "tentativas_negocio": 1,
+    "tentativas_falha_persistente": 3,
+    "gravacoes_com_confirmacao_perdida": 1
+  },
+  "roi_hipotetico": {
+    "horas_liberadas_mes": 35.55555555555555,
+    "economia_liquida_mes": 99.99999999999977,
+    "stp_equilibrio": 0.625
+  }
+}

@@ -1,0 +1,14 @@
+descricao,esperado,centro,confianca,decisao
+Manutenção preventiva de frota,OPERACOES,OPERACOES,1.0,OPERACOES
+Frete Fortaleza-Recife,OPERACOES,OPERACOES,1.0,OPERACOES
+Lavagem de caminhões,OPERACOES,OPERACOES,1.0,OPERACOES
+Licença de software de GPS,TI,TI,1.0,TI
+Suporte ao sistema,TI,TI,1.0,TI
+Laudo estrutural,ENGENHARIA,ENGENHARIA,1.0,ENGENHARIA
+Sinalização e recapeamento,ENGENHARIA,ENGENHARIA,1.0,ENGENHARIA
+Serviço de limpeza e conservação,ADMINISTRATIVO,ADMINISTRATIVO,1.0,ADMINISTRATIVO
+Manutenção de ar-condicionado,ADMINISTRATIVO,ADMINISTRATIVO,1.0,ADMINISTRATIVO
+Consultoria diversa,,,0.0,
+Software para frota,,,0.5,
+GPS e software para frota,,TI,0.6666666666666666,
+,,,0.0,
