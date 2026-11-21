@@ -1,13 +1,13 @@
 arquivo,status,numero,fornecedor,cnpj,valor,protocolo,tentativas,mensagem,evidencia,duracao_s,centro_custo,confianca,classificador,descricao
-NF_01_004101.pdf,SUCESSO,004101,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,28750.61,AP-2026-00001,1,,,0.6644,ADMINISTRATIVO,,,Serviço de limpeza e conservação
-NF_02_004102.pdf,SUCESSO,004102,TecVia Sistemas de Monitoramento LTDA,96.865.468/0001-18,23667.69,AP-2026-00002,1,,,0.8504,ADMINISTRATIVO,,,Manutenção de ar-condicionado
-NF_03_004103.pdf,SUCESSO,004103,Sinaliza Ceará Engenharia LTDA,25.988.000/0001-72,1276.81,AP-2026-00003,1,,,0.6307,ENGENHARIA,,,Laudo estrutural de galpão
-NF_04_004104.pdf,EXCECAO_NEGOCIO,004104,Iracema Manutenção Predial LTDA,23.775.684/0001-00,15606.63,,0,CNPJ inválido: 23.775.684/0001-00,,0.0018,,,,Manutenção de ar-condicionado
-NF_05_004105.pdf,SUCESSO,004105,LogMov Transportes e Fretes LTDA,77.446.522/0001-46,19929.78,AP-2026-00004,1,,,0.6661,ENGENHARIA,,,Recapeamento de acesso interno
-NF_06_004106.pdf,SUCESSO,004106,Sinaliza Ceará Engenharia LTDA,25.988.000/0001-72,20839.1,AP-2026-00005,1,,,0.558,ENGENHARIA,,,Recapeamento de acesso interno
-NF_07_004102.pdf,EXCECAO_NEGOCIO,004102,TecVia Sistemas de Monitoramento LTDA,96.865.468/0001-18,23667.69,,0,Já existe no ERP — ignorado por idempotência,,0.002,,,,Manutenção de ar-condicionado
-NF_08_004108.pdf,SUCESSO,004108,Iracema Manutenção Predial LTDA,23.775.684/0001-07,16535.38,AP-2026-00006,1,,,0.6251,ENGENHARIA,,,Laudo estrutural de galpão
-NF_09_004109.pdf,PENDENTE_APROVACAO,004109,Ponte Forte Consultoria em Obras ME,78.695.681/0001-47,78450.9,,0,"Valor acima do limite de R$ 50.000,00",,0.002,ADMINISTRATIVO,,,Serviço de limpeza e conservação
-NF_10_004110.pdf,SUCESSO,004110,TecVia Sistemas de Monitoramento LTDA,96.865.468/0001-18,32222.35,AP-2026-00007,1,,,0.7017,ADMINISTRATIVO,,,Serviço de limpeza e conservação
-NF_11_004111.pdf,EXCECAO_NEGOCIO,,,,,,0,Campo 'valor' não encontrado no documento,,0.0032,,,,
-NF_12_004112.pdf,SUCESSO,004112,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,4660.71,AP-2026-00008,1,,,0.6961,OPERACOES,,,Lavagem técnica de caminhões
+NF_01_004101.pdf,SUCESSO,004101,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,28750.61,AP-2026-00001,1,,,0.6914,ADMINISTRATIVO,,,Serviço de limpeza e conservação
+NF_02_004102.pdf,SUCESSO,004102,TecVia Sistemas de Monitoramento LTDA,96.865.468/0001-18,23667.69,AP-2026-00002,1,,,0.8702,ADMINISTRATIVO,,,Manutenção de ar-condicionado
+NF_03_004103.pdf,SUCESSO,004103,Sinaliza Ceará Engenharia LTDA,25.988.000/0001-72,1276.81,AP-2026-00003,1,,,0.6588,ENGENHARIA,,,Laudo estrutural de galpão
+NF_04_004104.pdf,EXCECAO_NEGOCIO,004104,Iracema Manutenção Predial LTDA,23.775.684/0001-00,15606.63,,0,CNPJ inválido: 23.775.684/0001-00,,0.002,,,,Manutenção de ar-condicionado
+NF_05_004105.pdf,SUCESSO,004105,LogMov Transportes e Fretes LTDA,77.446.522/0001-46,19929.78,AP-2026-00004,1,,,0.6845,ENGENHARIA,,,Recapeamento de acesso interno
+NF_06_004106.pdf,SUCESSO,004106,Sinaliza Ceará Engenharia LTDA,25.988.000/0001-72,20839.1,AP-2026-00005,1,,,0.5805,ENGENHARIA,,,Recapeamento de acesso interno
+NF_07_004102.pdf,EXCECAO_NEGOCIO,004102,TecVia Sistemas de Monitoramento LTDA,96.865.468/0001-18,23667.69,,0,Já existe no ERP — ignorado por idempotência,,0.0025,,,,Manutenção de ar-condicionado
+NF_08_004108.pdf,SUCESSO,004108,Iracema Manutenção Predial LTDA,23.775.684/0001-07,16535.38,AP-2026-00006,1,,,0.8573,ENGENHARIA,,,Laudo estrutural de galpão
+NF_09_004109.pdf,PENDENTE_APROVACAO,004109,Ponte Forte Consultoria em Obras ME,78.695.681/0001-47,78450.9,,0,"Valor acima do limite de R$ 50.000,00",,0.0026,ADMINISTRATIVO,,,Serviço de limpeza e conservação
+NF_10_004110.pdf,SUCESSO,004110,TecVia Sistemas de Monitoramento LTDA,96.865.468/0001-18,32222.35,AP-2026-00007,1,,,0.8529,ADMINISTRATIVO,,,Serviço de limpeza e conservação
+NF_11_004111.pdf,EXCECAO_NEGOCIO,,,,,,0,Campo 'valor' não encontrado no documento,,0.0022,,,,
+NF_12_004112.pdf,SUCESSO,004112,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,4660.71,AP-2026-00008,1,,,0.9279,OPERACOES,,,Lavagem técnica de caminhões

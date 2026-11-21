@@ -1,4 +1,4 @@
 arquivo,status,numero,fornecedor,cnpj,valor,protocolo,tentativas,mensagem,evidencia,duracao_s,centro_custo,confianca,classificador,descricao
-830001.pdf,SUCESSO,830001,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,28750.61,AP-2026-00023,2,,,1.6062,OPERACOES,1.0,palavras-chave-1.1,Manutenção de frota
-830002.pdf,PENDENTE_APROVACAO,830002,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,28750.61,,0,Centro de custo incerto: confiança 0%,,0.0018,,0.0,palavras-chave-1.1,Consultoria diversa
+830001.pdf,SUCESSO,830001,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,28750.61,AP-2026-00023,2,,,1.4701,OPERACOES,1.0,palavras-chave-1.1,Manutenção de frota
+830002.pdf,PENDENTE_APROVACAO,830002,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,28750.61,,0,Centro de custo incerto: confiança 0%,,0.002,,0.0,palavras-chave-1.1,Consultoria diversa
 830003.pdf,PENDENTE_APROVACAO,830003,Asfalto Norte Pavimentação S.A.,52.880.483/0001-60,28750.61,,0,Centro de custo incerto: confiança 50%,,0.0019,,0.5,palavras-chave-1.1,Software para frota

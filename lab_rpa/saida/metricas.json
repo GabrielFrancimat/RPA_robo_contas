@@ -1,7 +1,7 @@
 {
   "ambiente": {
     "python": "3.14.4",
-    "sistema": "Linux-7.0.0-42-generic-x86_64-with-glibc2.43",
+    "sistema": "Linux-7.0.0-43-generic-x86_64-with-glibc2.43",
     "bibliotecas": {
       "playwright": "1.65.2",
       "pypdf": "7.1.0",
@@ -17,8 +17,8 @@
       "EXCECAO_NEGOCIO": 3,
       "PENDENTE_APROVACAO": 1
     },
-    "tempo_itens_s": 5.4015,
-    "media_sucesso_s": 0.6740625,
+    "tempo_itens_s": 6.1328000000000005,
+    "media_sucesso_s": 0.7654375,
     "stp": 0.6666666666666666
   },
   "idempotencia": {
@@ -31,40 +31,40 @@
       "layout": "v1",
       "estrategia": "ids",
       "count": 3,
-      "mean": 0.9414527333380344,
-      "median": 0.9810362630087184,
-      "std": 0.0943029066180497
+      "mean": 0.5928197206691644,
+      "median": 0.6068406150006922,
+      "std": 0.06830888889525803
     },
     {
       "layout": "v1",
       "estrategia": "rotulos",
       "count": 3,
-      "mean": 0.6315692106679004,
-      "median": 0.6414626159967156,
-      "std": 0.18005788252991228
+      "mean": 0.8032728600010159,
+      "median": 0.7297089690036955,
+      "std": 0.17978949760820484
     },
     {
       "layout": "v2",
       "estrategia": "ids",
       "count": 3,
-      "mean": 0.524124016330461,
-      "median": 0.45161723300407175,
-      "std": 0.22426776602486154
+      "mean": 0.825284966333129,
+      "median": 0.7983420689997729,
+      "std": 0.08635277634611352
     },
     {
       "layout": "v2",
       "estrategia": "rotulos",
       "count": 3,
-      "mean": 0.6730738910021804,
-      "median": 0.5936268320074305,
-      "std": 0.1612243018319653
+      "mean": 0.5976209636670925,
+      "median": 0.6235199049988296,
+      "std": 0.07106305261822554
     }
   ],
   "extracao": {
     "amostras": 60,
     "extraidos": 55,
     "rejeitados": 5,
-    "mediana_ms": 1.5361564946942963
+    "mediana_ms": 1.6856920010468457
   },
   "classificacao": {
     "casos_sinteticos": 13,
